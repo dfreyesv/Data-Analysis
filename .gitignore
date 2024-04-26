@@ -16,3 +16,5 @@ NBA_Stats/build/NBA_Stats_RPA/localpycs/pyimod01_archive.pyc
 NBA_Stats/build/NBA_Stats_RPA/EXE-00.toc
 NBA_Stats/build/NBA_Stats_RPA/base_library.zip
 NBA_Stats/build/NBA_Stats_RPA/Analysis-00.toc
+*.csv
+*.html
